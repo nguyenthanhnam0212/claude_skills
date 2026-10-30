@@ -1,9 +1,8 @@
 {
   "name": "jira",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skill để log work trên jira",
   "author": {
     "name": "nguyenthanhnam0212"
-  },
-  "skills": "./skills"
+  }
 }
