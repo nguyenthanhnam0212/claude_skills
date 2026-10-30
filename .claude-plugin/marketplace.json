@@ -1,0 +1,13 @@
+{
+  "name": "Claude Skills by nguyenthanhnam0212",
+  "owner": {
+    "name": "nguyenthanhnam0212"
+  },
+  "plugins": [
+    {
+      "name": "jira",
+      "source": "./plugins/jira",
+      "description": "Skill để log work trên jira"
+    }
+  ]
+}
