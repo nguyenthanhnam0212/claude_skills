@@ -51,3 +51,7 @@ Chuyển file Markdown thành tài liệu phân tích yêu cầu nghiệp vụ d
    * **Borders**: All Borders (Tất cả các đường viền).
    * **Repeat Header Rows**: Lặp lại hàng tiêu đề ở các trang tiếp theo.
    * **Màu sắc Header**: White, Background 1, Darker 25%.
+   * **Tiêu đề của bảng**: Căn giữa trái phải và trên dưới, chiều cao của tiêu đề 45px
+
+- **Đánh số trang (Footer)**:
+   * **Page number**: Chèn page number ở bottom of page. Số trang chèn ở góc phải của trang. Số được đánh kể từ trang đầu tiên sau trang Mục lục
