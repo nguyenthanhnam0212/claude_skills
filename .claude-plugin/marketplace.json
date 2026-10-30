@@ -7,8 +7,7 @@
     {
       "name": "jira",
       "source": "./plugins/jira",
-      "description": "Skill để log work trên jira",
-      "strict": false
+      "description": "Skill để log work trên jira"
     }
   ]
 }
