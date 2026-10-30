@@ -11,7 +11,7 @@
     {
       "name": "assistant",
       "source": "./plugins/assistant",
-      "description": "Trợ lý cá nhân: log work Jira, tạo tài liệu phân tích yêu cầu (.docx)"
+      "description": "Trợ lý cá nhân của namnt62."
     }
   ]
 }
