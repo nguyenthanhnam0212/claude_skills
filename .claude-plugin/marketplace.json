@@ -9,14 +9,9 @@
   },
   "plugins": [
     {
-      "name": "jira",
-      "source": "./plugins/jira",
-      "description": "Skill để log work trên jira"
-    },
-    {
-      "name": "doc",
-      "source": "./plugins/doc",
-      "description": "Skill tạo tài liệu phân tích yêu cầu nghiệp vụ (.docx) từ Markdown"
+      "name": "assistant",
+      "source": "./plugins/assistant",
+      "description": "Trợ lý cá nhân: log work Jira, tạo tài liệu phân tích yêu cầu (.docx)"
     }
   ]
 }

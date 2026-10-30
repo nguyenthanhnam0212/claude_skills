@@ -1,0 +1,8 @@
+{
+  "name": "assistant",
+  "version": "1.0.0",
+  "description": "Trợ lý cá nhân: log work Jira, tạo tài liệu phân tích yêu cầu (.docx)",
+  "author": {
+    "name": "nguyenthanhnam0212"
+  }
+}
