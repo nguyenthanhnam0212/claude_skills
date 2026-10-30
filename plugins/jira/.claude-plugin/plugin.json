@@ -2,6 +2,8 @@
   "name": "jira",
   "version": "1.0.0",
   "description": "Skill để log work trên jira",
-  "author": "nguyenthanhnam0212",
+  "author": {
+    "name": "nguyenthanhnam0212"
+  },
   "entry": "jira/log_jira.md"
 }
