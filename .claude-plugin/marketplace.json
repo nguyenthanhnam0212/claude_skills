@@ -4,11 +4,19 @@
     "name": "nguyenthanhnam0212",
     "url": "https://github.com/nguyenthanhnam0212"
   },
+  "metadata": {
+    "description": "Bộ skill Claude Code cá nhân: Jira, tạo tài liệu"
+  },
   "plugins": [
     {
       "name": "jira",
       "source": "./plugins/jira",
       "description": "Skill để log work trên jira"
+    },
+    {
+      "name": "doc",
+      "source": "./plugins/doc",
+      "description": "Skill tạo tài liệu phân tích yêu cầu nghiệp vụ (.docx) từ Markdown"
     }
   ]
 }

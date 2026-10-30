@@ -1,0 +1,8 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "Skill tạo tài liệu phân tích yêu cầu nghiệp vụ (.docx) từ Markdown",
+  "author": {
+    "name": "nguyenthanhnam0212"
+  }
+}
