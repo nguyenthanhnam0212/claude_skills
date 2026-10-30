@@ -38,6 +38,12 @@ Chuyển file Markdown thành tài liệu phân tích yêu cầu nghiệp vụ d
   * **Màu sắc**: Đen
   * **Cỡ chữ**: 13 pt
 
+- **Căn lề tài liệu**:
+   * **Margins**: Thiết lập `Page Setup` với căn lề Trên (Top) và Dưới (Bottom) 2cm, Trái (Left) 3cm và Phải (Right) 2cm
+
+- **Đánh số trang (Footer)**:
+   * **Page number**: Chèn page number ở bottom of page. Số trang chèn ở góc phải của trang. Số được đánh kể từ trang đầu tiên sau trang Mục lục
+
 - **Quy tắc về đầu mục và định dạng**:
    * **Cấp đầu mục lớn nhất**: Sử dụng chữ số La Mã (`I`, `II`, `III`, `IV`, ...).
    * **Cấp đầu mục tiếp theo**: Sử dụng số thứ tự (`1`, `2`, `3`, `4`, ...).
@@ -53,5 +59,4 @@ Chuyển file Markdown thành tài liệu phân tích yêu cầu nghiệp vụ d
    * **Màu sắc Header**: White, Background 1, Darker 25%.
    * **Tiêu đề của bảng**: Căn giữa trái phải và trên dưới, chiều cao của tiêu đề 45px
 
-- **Đánh số trang (Footer)**:
-   * **Page number**: Chèn page number ở bottom of page. Số trang chèn ở góc phải của trang. Số được đánh kể từ trang đầu tiên sau trang Mục lục
+
