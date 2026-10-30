@@ -1,11 +1,19 @@
 ---
 name: gen-doc
-description: Tạo tài liệu phân tích yêu cầu nghiệp vụ định dạng *.docx từ file Markdown.
+description: >
+  Tạo tài liệu phân tích yêu cầu nghiệp vụ (.docx) từ file Markdown.
+  Dùng khi người dùng yêu cầu "tạo tài liệu phân tích yêu cầu", "chuyển md sang docx", "gen doc".
+argument-hint: "[đường-dẫn-file.md]"
 ---
 
 # gen-doc
 
-Kỹ năng này giúp AI thực hiện tạo (generate) tài liệu phân tích yêu cầu nghiệp vụ dưới dạng file Word (`*.docx`).
+Chuyển file Markdown thành tài liệu phân tích yêu cầu nghiệp vụ dạng Word (`.docx`).
+
+## Đầu vào
+
+- File Markdown: `$ARGUMENTS`
+- Nếu không có đường dẫn: hỏi người dùng, không tự đoán.
 
 ## Khi nào sử dụng
 - Khi người dùng gửi yêu cầu: *"Tạo tài liệu phân tích yêu cầu"*.
@@ -22,8 +30,8 @@ Kỹ năng này giúp AI thực hiện tạo (generate) tài liệu phân tích 
 
 **Bố cục file Word**
 
-Mục lục: File word được tạo ra đầu tiên phải có mục lục
-Nội dung: Tuân thủ theo các quy tắc định dạng sau:
+   * Mục lục: File word được tạo ra đầu tiên phải có mục lục
+   * Nội dung: Tuân thủ theo các quy tắc định dạng sau:
 
 **Quy tắc về đầu mục và định dạng**:
    * **Cấp đầu mục lớn nhất**: Sử dụng chữ số La Mã (`I`, `II`, `III`, `IV`, ...).
